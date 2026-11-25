@@ -1,0 +1,8 @@
+*.rbxl
+*.rbxlx
+*.rbxlx.lock
+*.rbxl.lock
+sourcemap.json
+Packages/
+ServerPackages/
+.vscode/

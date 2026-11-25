@@ -1,0 +1,60 @@
+--!strict
+-- Advanced PathFinding AI | Version 1.0
+-- Copyright (c) 2026 ZakirGG. All rights reserved.
+-- Discord: zakir_playz_ | https://github.com/Nekoraiiii
+-- Proprietary source; see LICENSE.txt. Third-party rights remain unaffected.
+-- Source identifier: APFAI-412B680E930CCAB9151E
+
+-- All navigation and combat tuning lives here; perception tuning lives in Configuration.
+return table.freeze({
+	UpdateInterval = 0.08,
+	AgentRadius = 2,
+	AgentHeight = 5,
+	WaypointSpacing = 3,
+	WaypointReach = 1.35,
+	VerticalReach = 2.5,
+	ArrivalReach = 1.7,
+	TargetShift = 7,
+	RepathInterval = 0.9,
+	DirectConfirm = 0.35,
+	ModeCommit = 0.65,
+	PathTimeout = 5,
+	RetryDelay = 0.5,
+	MaxRetryDelay = 3,
+	FallbackRetry = 2,
+	FallbackRadius = 5,
+	MaxStartDrift = 12,
+	MaxDirectDistance = 90,
+	GroundSampleSpacing = 2.5,
+	MaxGroundStep = 1.6,
+	MinimumProgress = 0.45,
+	StuckTimeout = 1.8,
+	-- Copyright (c) 2026 ZakirGG | APFAI-412B680E930CCAB9151E/01 | Proprietary source.
+	NoRouteTimeout = 6,
+	RecoveryDuration = 1.1,
+	RecoveryCooldown = 1.5,
+	RecoveryDistance = 3.5,
+	MovementRefresh = 0.4,
+	MovementThreshold = 0.45,
+	AttackRange = 5,
+	AttackCooldown = 1.2,
+	Knockback = 100,
+	UpwardKnockback = 55,
+	DeathDelay = 0.55,
+	BreakDistance = 4,
+	BreakWindup = 0.25,
+	BreakTimeout = 10,
+	BreachExitDistance = 2.5,
+	BreachTraverseTimeout = 4,
+	BreachTraverseReach = 0.9,
+	FailedWallCooldown = 4,
+	InvestigateSpeed = 12,
+	SearchSpeed = 10,
+	FragmentSize = 2,
+	MaxFragments = 64,
+	GlobalFragmentLimit = 192,
+	DebrisLifetime = 8,
+	WanderTimeout = 18,
+	SearchPointTimeout = 5,
+	ErrorLimit = 5,
+})

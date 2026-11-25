@@ -1,0 +1,15 @@
+ADVANCED PATHFINDING AI — SOURCE-AVAILABLE LICENSE
+Version 1.0
+Copyright (c) 2026 ZakirGG. All rights reserved except as expressly granted below.
+Discord: zakir_playz_
+GitHub: https://github.com/Nekoraiiii
+
+1. Permission. To the extent owned by ZakirGG, permission is granted, without charge, to inspect, review, copy, use, modify and redistribute the source code and accompanying original documentation free of charge, subject to these terms. Use and adaptation within personal, educational and commercial Roblox experiences, including monetized experiences, are permitted.
+
+2. Restrictions. You may not sell, license for payment, or otherwise commercially distribute the framework or modified versions as source code, standalone assets, plugins, templates or code packages, including as part of a paid code bundle. Monetizing an experience that incorporates the framework is permitted and is not itself resale of the framework. Other commercial redistribution requires prior written permission from ZakirGG.
+
+3. Attribution. Retain applicable copyright notices, embedded ownership markers and this license in copies and modified versions. Provide reasonable credit to ZakirGG in the documentation or credits of projects using the framework. Do not claim authorship of the original work or imply endorsement. Free redistribution must retain these terms; recipients may not be granted broader rights to the original material.
+
+4. Third-party rights. Third-party material remains subject to its respective rights and licenses. This license does not assert ownership of Roblox APIs or material not owned by ZakirGG.
+
+5. Disclaimer. To the extent permitted by law, the material is provided AS IS, without warranties of any kind, including merchantability, fitness for a particular purpose or non-infringement. The author is not liable for claims or damages arising from use to the extent permitted by law. No support or maintenance is promised.

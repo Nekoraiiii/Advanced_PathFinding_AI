@@ -1,0 +1,182 @@
+{
+  "framework": "Advanced PathFinding AI",
+  "version": "1.0",
+  "copyright_owner": "ZakirGG",
+  "year": 2026,
+  "discord": "zakir_playz_",
+  "github": "https://github.com/Nekoraiiii",
+  "license": "Custom source-available license; resale prohibited",
+  "status": "Release candidate; Studio acceptance pending",
+  "language": "Luau",
+  "platform": "Roblox",
+  "architecture": "Modular, server-authoritative",
+  "release_channel": "Public Beta",
+  "runtime_dependencies": [],
+  "latest_update": "Advanced room-aware investigation and search",
+  "studio_acceptance": "Pending",
+  "source_marker_scheme": "APFAI-v1",
+  "source_markers": [
+    {
+      "path": "src/client/CameraEffects.client.luau",
+      "source_id": "APFAI-B1C4E9838479C6661233",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/client/VisualHandler.client.luau",
+      "source_id": "APFAI-9775D4DFE147C106A35D",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/client/init.client.luau",
+      "source_id": "APFAI-A97A9BDD8F88F956BDC0",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/Aggression.luau",
+      "source_id": "APFAI-00CA1B604D593A7AC4FD",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/Behavior.luau",
+      "source_id": "APFAI-6EE8CF7C21153635F2FE",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AI/Breaching.luau",
+      "source_id": "APFAI-0EF12DB3E82D76549516",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AI/Combat.luau",
+      "source_id": "APFAI-90DE865C86116C29DA74",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/Configuration.luau",
+      "source_id": "APFAI-F9B83875D12EE96A292C",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/Debugger.luau",
+      "source_id": "APFAI-EB82E05405051CEB8682",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/Destruction.luau",
+      "source_id": "APFAI-414758D0FBB491857603",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AI/Diagnostics.luau",
+      "source_id": "APFAI-3A826C184333E9A38230",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/Hearing.luau",
+      "source_id": "APFAI-7BB0594C5D80C1C3F2CE",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AI/Investigation.luau",
+      "source_id": "APFAI-34B31C24CCB71E31A478",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AI/Movement.luau",
+      "source_id": "APFAI-6AC00A40274AC19B422C",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/Navigation.luau",
+      "source_id": "APFAI-CCB1CA4364402F4F075D",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AI/ObstacleDetection.luau",
+      "source_id": "APFAI-9CB8D748CF877A9181DA",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AI/PathPlanner.luau",
+      "source_id": "APFAI-6CD5427391D69C8DEDAF",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AI/Perception.luau",
+      "source_id": "APFAI-5CC17A3A1EBD5900A212",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AI/Prediction.luau",
+      "source_id": "APFAI-C0A3813097345D85D467",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AI/Recovery.luau",
+      "source_id": "APFAI-6C9B023B79431E6C4453",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AI/RoutePolicy.luau",
+      "source_id": "APFAI-0381AEAC37B450D276C6",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/Settings.luau",
+      "source_id": "APFAI-412B680E930CCAB9151E",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/StateMachine.luau",
+      "source_id": "APFAI-3DE7C1992E3F1B1719D6",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/TargetMemory.luau",
+      "source_id": "APFAI-DC04510112050A762EC4",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/Targeting.luau",
+      "source_id": "APFAI-73E439AA158DB4F37A37",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/Utilities.luau",
+      "source_id": "APFAI-7A77FBF8D7384180235B",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/server/AI/Wander.luau",
+      "source_id": "APFAI-B4283854CE5777DDB3E9",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AI/WaypointFollower.luau",
+      "source_id": "APFAI-DB8EC1174E8173DE0F57",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/AIController.luau",
+      "source_id": "APFAI-1006BD698772E2641A82",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/server/init.server.luau",
+      "source_id": "APFAI-A96DA75480C75D5ABE04",
+      "inline_markers": 1
+    },
+    {
+      "path": "src/shared/Signal.luau",
+      "source_id": "APFAI-EFEB511624B66BF00CD9",
+      "inline_markers": 2
+    },
+    {
+      "path": "src/shared/Types.luau",
+      "source_id": "APFAI-E1F9B732DD5DBD2C338C",
+      "inline_markers": 1
+    }
+  ],
+  "marker_note": "Added during rebranding, not historical proof of authorship. Identifiers are comments, not executable DRM.",
+  "purpose": "Developer portfolio and code review"
+}
